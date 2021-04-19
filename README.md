@@ -16,4 +16,4 @@ Mmmh...
 
 In France, if I'm not otherwhere
 
-Or at this mail `qandre44@gmail.com`
+Or at this mail `quiscale.dev@gmail.com`
