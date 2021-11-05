@@ -2,7 +2,7 @@
 
 Yep that's me, Quiscale.
 
-I'm only here to develop things and sometimes share it to people interesting in it.
+I'm only here to develop things, but if someone is interested in my work, he's welcome.
 
 ## Some interest ?
 
@@ -14,6 +14,6 @@ Mmmh...
 
 ## Where can I find myself ?
 
-In France, if I'm not otherwhere
+In France, if I'm not elsewhere
 
 Or at this mail `quiscale.dev@gmail.com`
